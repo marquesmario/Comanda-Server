@@ -1,0 +1,36 @@
+{
+  "name": "comanda-server",
+  "version": "1.0.0",
+  "description": "Server side Comanda Online Restaurant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marquesmario/Comanda-Server.git"
+  },
+  "keywords": [
+    "Comanda",
+    "Restaurant",
+    "Price",
+    "Project"
+  ],
+  "author": "Mário Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marquesmario/Comanda-Server/issues"
+  },
+  "homepage": "https://github.com/marquesmario/Comanda-Server#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.3",
+    "nunjucks": "^3.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
